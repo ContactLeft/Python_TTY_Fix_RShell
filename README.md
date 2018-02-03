@@ -1,4 +1,4 @@
-# Python_TTY_Fix_RShell
+# Python_TTY_Fix_Shell
 Change standard bind / reverse shell while exploiting into interactive shell.
 
 You have managed to find an exploit and spawned either a Bind Shell or a Reverse Shell Connect Back to your machine (Kudos)
